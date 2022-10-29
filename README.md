@@ -19,7 +19,7 @@
  <img align= "left" src =  "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
  <img align= "left" src =  "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
  
- ![Snake animation](https://github.com/oscarRodriguesDev/oscarRodriguesDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
 

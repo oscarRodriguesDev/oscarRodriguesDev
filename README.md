@@ -22,6 +22,9 @@
  <img align= "left" src =  "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
  <img align= "left" src =  "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
  <img align= "left" src =  "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+ <img align= "left" src =  "https://img.shields.io/badge/react-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+
  
   ![Snake animation](https://github.com/oscarRodriguesDev/oscarRodriguesDev/blob/output/github-contribution-grid-snake.svg)
  

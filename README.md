@@ -1,5 +1,6 @@
 <h1 align = "center" background = "green">
-   Hi 👋, I’m Oscar Rodrigues
+   Ola meu nome é Oscar Rodrigues, sou Desenvolvedor fullstack de sistemas e aplicativos, atualmente estou utilizando com mais frequencia as seguintes tecnologias: React, Next js, Node js, Express, React Native entre outras tecnologias do universo javascript, 
+   porem em meus repositorios você encontrará projetos nos quais utilizei, Python, java e muitas outras linguagens, fiquem a vontade para explorar meu pequeno universo de desenvolvimento!
   <img src ="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47m4l7bu2evh5wb1wyat849fi0ex9a1kozdau6knok&rid=giphy.gif&ct=g" width =  "50"/>
 </h1><br>
  🌱Currently I am studying Python language and technologies of

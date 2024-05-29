@@ -23,6 +23,12 @@
  <img align= "left" src =  "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
  <img align= "left" src =  "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
  <img align= "left" src =  "https://img.shields.io/badge/react-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+ <img align= "left" src =  "https://img.shields.io/badge/Next js-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+ <img align= "left" src =  "https://img.shields.io/badge/Node js-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img align= "left" src =  "https://img.shields.io/badge/Firebase-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+ <img align= "left" src =  "https://img.shields.io/badge/Express-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img align= "left" src =  "https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1"/>
+ <img align= "left" src =  "https://img.shields.io/badge/Postgrees-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1"/>
 
 
  
